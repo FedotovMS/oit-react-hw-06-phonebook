@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fedotovms.github.io/oit-react-hw-06-phonebook/static/css/main.10e4a2ae.css",
+    "main.js": "/fedotovms.github.io/oit-react-hw-06-phonebook/static/js/main.0549ff3a.js",
+    "index.html": "/fedotovms.github.io/oit-react-hw-06-phonebook/index.html",
+    "main.10e4a2ae.css.map": "/fedotovms.github.io/oit-react-hw-06-phonebook/static/css/main.10e4a2ae.css.map",
+    "main.0549ff3a.js.map": "/fedotovms.github.io/oit-react-hw-06-phonebook/static/js/main.0549ff3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10e4a2ae.css",
+    "static/js/main.0549ff3a.js"
+  ]
+}
